@@ -81,7 +81,7 @@ class SandwichMachine:
         print(f"{sandwich_size} sandwich is ready. Bon appetit!")
 
 ### Make an instance of SandwichMachine class and write the rest of the codes ###
-def print_report(resources)
+def print_report(resources):
     print(f"Bread: {resources['bread']} slice(s)")
     print(f"Ham: {resources['ham']} slice(s)")
     print(f"Cheese: {resources['cheese']} slice(s)")
