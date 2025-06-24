@@ -1,0 +1,12 @@
+# Ignore Mac and PyCharm junk
+.DS_Store
+.idea/
+
+# Ignore virtual environments
+.venv/
+__pycache__/
+
+# Optional: ignore other folders you don’t want tracked
+bank/
+Misc/
+HorribleCode/
