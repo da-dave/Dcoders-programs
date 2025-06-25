@@ -1,4 +1,5 @@
 def calc():
+    # This is calculator
     x = int(input("1 add 2 sub 3 mul 4 div: "))
     if x == 1:
         a = float(input("a: "))
